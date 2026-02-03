@@ -1,7 +1,7 @@
 ---
 title: "Test Quarto"
 author: "Jaylin"
-format: html
+format: gfm
 editor: visual
 ---
 
